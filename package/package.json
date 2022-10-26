@@ -1,5 +1,5 @@
 {
-  "name": "mapper-dto-js",
+  "name": "j-mapper",
   "version": "1.0.0",
   "description": "model mapper for dtos in javascript",
   "main": "index.js",
